@@ -140,6 +140,13 @@ footer {
   font-size: 1rem;
 }
 
+.home-quote {
+  color: #5B8F5B;
+  font-style: italic;
+  margin: 0 0 20px;
+  font-size: 0.95rem;
+}
+
 .divider {
   width: 600px;
   max-width: 80%;
