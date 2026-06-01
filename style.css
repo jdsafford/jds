@@ -137,3 +137,18 @@ footer {
 .home-footer {
   display: none;
 }
+/* Final overrides */
+
+h1,
+h2 {
+  text-align: center !important;
+}
+
+.home-nav a {
+  font-size: 1.35rem !important;
+  font-weight: bold;
+}
+
+.home-nav {
+  gap: 22px !important;
+}
