@@ -3,8 +3,10 @@
 ********************/
 
 body {
-  background: #0B0D0C;
-  color: #D6D6D6;
+  background:
+    radial-gradient(circle at top, rgba(86, 217, 255, 0.13), transparent 32%),
+    #0b000c;
+  color: #d6d6d6;
   font-family: monospace;
   margin: 0;
   line-height: 1.7;
