@@ -190,6 +190,24 @@ footer {
   border-radius: 10px;
 }
 
+.crumb-trail {
+    margin-top: 80px;
+    text-align: center;
+    opacity: 0.35;
+    transition: opacity 0.3s ease;
+}
+
+.crumb-trail a {
+    color: #7CFF7C;
+    font-size: 1rem;
+    letter-spacing: 6px;
+    text-decoration: none;
+}
+
+.crumb-trail:hover {
+    opacity: 1;
+}
+
 
 /********************
   MOBILE RESPONSIVE
